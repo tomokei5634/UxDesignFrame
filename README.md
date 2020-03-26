@@ -1,6 +1,8 @@
 [qiita：UIを知らない人にUXを説明したときの話（UIとUXの違い）](https://qiita.com/tomokei5634/items/9aa7bcbbb4bc1896450b) の中で掲載した「VPC」「カスタマージャーニーマップ」「BMC」の画像データ（XDファイル）です。
 
 # VPC
+![VPC.png](https://github.com/tomokei5634/UxDesignFrame/blob/master/png/VPC.png?raw=true)
+
 バリュープロポジションキャンバス（Value Proposition Canvas）は「自社の製品やサービスと顧客のニーズとのずれを解消（確認）するためのフレームワーク」です。UI・UXアイデアを整理・整頓するのに役立つツールです。私は「UXの暴走」を抑制するツールだと思って使っています。
 
 「UXの暴走」というのは、「これはした方がいいな」「あれもした方がいいな」とアイデアが出過ぎてしまい、振り返るとユーザーのニーズと離れているアイデアまでもを「必要だ」と誤認してしまう状態になってしまうことです。アイデアがひとしきり出たあとは、一呼吸おいて、ユーザーニーズと照らし合わせながらアイデアの仕分けをします。
@@ -10,6 +12,8 @@
 
 
 # カスタマージャーニーマップ
+![CJM.png](https://github.com/tomokei5634/UxDesignFrame/blob/master/png/CJM.png?raw=true)
+
 カスタマージャーニーマップ（Customer Journey Mapping）もUXを検討するうえで便利なツールです。これは「商品やサービスを購入·使用するプロセスの各フェーズにおける、顧客の行動·思考·感情などを時系列に沿って視覚的に表現するフレームワーク」です。
 （使い方や詳細はググってください→[カスタマージャーニーマップ](https://www.google.com/search?q=カスタマージャーニーマップ)）
 
@@ -17,6 +21,8 @@ UX（ユーザーの体験）を考える際は「体験」に加え、「体験
 
 
 # BMC
+![BMC.png](https://github.com/tomokei5634/UxDesignFrame/blob/master/png/BMC.png?raw=true)
+
 ビジネスモデルキャンバス（Business Model Canvas）は「ビジネスモデルを図式化するためのフレームワーク」です。
 
 VPCの拡張版です。ただ私はあまり使わないので詳細は割愛
